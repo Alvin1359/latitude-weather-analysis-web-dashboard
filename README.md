@@ -1,6 +1,8 @@
 # Web Visualisaation Dashboard
 A visualisation dashboard investigating how a city's latitude affects its weather, specifically, max temperature, humidity, cloudiness and wind speed.
 
+Published at https://alvin1359.github.io/latitude-weather-analysis-web-dashboard/
+
 ## Repository Structure
 ```
 project  
