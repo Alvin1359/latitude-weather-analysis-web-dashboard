@@ -1,6 +1,25 @@
 # Web Visualisaation Dashboard
 A visualisation dashboard investigating how a city's latitude affects its weather, specifically, max temperature, humidity, cloudiness and wind speed.
 
+## Repository Structure
+```
+project  
+|__ assets/                              
+|         |_ css/          # contains css styling sheet
+|         |_ images/       # contains images of graphs
+|
+|__ images/                # contains images of final web page
+|
+|__ resources/             # contains data sets
+|
+|__ templates/             # contains html files for web pages
+|
+|__ index.html             # landing html page
+|
+|__ README.md              # readme file
+
+```
+
 ## Website Requirements
 - The website must consist of 7 pages total, including:
    - A landing page containing:
