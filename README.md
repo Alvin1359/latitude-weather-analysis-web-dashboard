@@ -1,5 +1,5 @@
 # Web Visualisaation Dashboard
-Creating a visualization dashboard website using visualizations. Specifically, weather data is plotted.
+A visualisation dashboard investigating how a city's latitude affects its weather, specifically, max temperature, humidity, cloudiness and wind speed.
 
 ## Website Requirements
 - The website must consist of 7 pages total, including:
