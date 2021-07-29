@@ -3,6 +3,12 @@ a {
     color: white;
 }
 
+b {
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
 body {
     background-color: rgb(228, 228, 228);
 }
@@ -21,13 +27,22 @@ h3 {
     font-weight: bold;
 }
 
+strong {
+    color: black;
+}
+
 .container {
     background-color: white;
     margin-top: 20px;
 }
 
 .navbar-expand-lg {
+    background-color: white;
+}
+
+.navbar-brand {
     background-color: #0BADA6 !important;
+    margin: 0px
 }
 
 .table-background {
@@ -37,7 +52,7 @@ h3 {
 
 
 /* Media Queries */ 
-@media(max-width: 600px){
+@media(max-width: 990px){
 
     body {
         background-color: white !important;
@@ -50,6 +65,15 @@ h3 {
 
     .l-div {
         display: none;
+    }
+
+    .navbar-expand-lg {
+        background-color: #0BADA6 !important;
+    }
+
+    .navbar-collapse {
+        background-color: white;
+        padding-left: 10px;
     }
 
     .row::after {
